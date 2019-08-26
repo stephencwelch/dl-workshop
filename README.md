@@ -1,6 +1,6 @@
 # Deep Learning workshop
 
-![](../graphics/workshop_lander.gif)
+![](graphics/workshop_lander.gif)
 
 
 ## Sessions
