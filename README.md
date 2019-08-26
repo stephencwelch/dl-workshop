@@ -1,8 +1,6 @@
 # Deep Learning workshop
 
-![](graphics/original_mit_crew-01.png)
-
-
+![](../graphics/workshop_lander.gif)
 
 
 ## Sessions
