@@ -37,8 +37,8 @@ After cloning this repo to your local machine, you'll need to setup your Python 
 (Optional) You may want to create a virtual environment for this repository: 
 
 ~~~
-conda create -n dl python=3 
-source activate dl
+conda create -n dl-workshop python=3
+conda activate dl-workshop
 ~~~
 
 You'll need to install the jupyter notebook to run the notebooks:
@@ -55,6 +55,19 @@ This repository requires the installation of a few extra packages, you can insta
 pip install -r requirements.txt
 ~~~
 
+### PyTorch and fastai
+You should be able to install pytorch and fastai with the single command: 
+```
+conda install -c pytorch -c fastai fastai
+```
+
+If you run into issues, you may try to instal via pip:
+```
+pip install torch torchvision
+pip install fastai
+```
+
+
 (Optional) [jupyterthemes](https://github.com/dunovank/jupyter-themes) can be nice when presenting notebooks, as it offers some cleaner visual themes than the stock notebook, and makes it easy to adjust the default font size for code, markdown, etc. You can install with pip: 
 
 ~~~
@@ -69,5 +82,15 @@ jt -t grade3 -cellw=90% -fs=20 -tfs=20 -ofs=20 -dfs=20
 Recommend jupyter them for **viewing** these notebook (type into terminal before launching notebook):
 ~~~
 jt -t grade3 -cellw=90% -fs=14 -tfs=14 -ofs=14 -dfs=14
+~~~
+
+Jupyterthemes also includes some nice dark options: 
+~~~
+jr -t oceans16
+~~~
+
+Finally, you can reset to the standare notebook with: 
+~~~
+jt -r
 ~~~
 
