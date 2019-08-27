@@ -56,17 +56,17 @@ You should be able to install pytorch and fastai with the single command:
 conda install -c pytorch -c fastai fastai
 ```
 
+If you run into issues, you may try to install fastai and pytorch via pip:
+```
+pip install torch torchvision
+pip install fastai
+```
+
 This repository requires the installation of a few extra packages, you can install many of them all at once with:
 ~~~
 pip install -r requirements.txt
 ~~~
 
-
-If you run into issues, you may try to instal via pip:
-```
-pip install torch torchvision
-pip install fastai
-```
 
 ### opencv
 We'll occasionally use opencv, you can install with conda:
