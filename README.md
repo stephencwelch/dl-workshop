@@ -68,7 +68,7 @@ pip install torch torchvision
 pip install fastai
 ```
 
-### Opencv
+### opencv
 We'll occasionally use opencv, you can install with conda:
 ~~~
 pip install opencv-python
