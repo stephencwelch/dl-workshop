@@ -1,4 +1,4 @@
-# Deep Learning workshop
+# Deep Learning Workshop
 
 ![](graphics/workshop_lander.gif)
 
