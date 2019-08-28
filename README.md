@@ -26,6 +26,14 @@ To properly view the images and animations, please launch your jupyter notebook 
 An number of notebooks in the workshop use large animation files. To keep this repo (relaitvely) lightweight, we've stored these videos on a seperate server. They can be downloaded here [ADD LINK], and should be placed in a directory called videos/ in the top level of this repo. 
 
 
+## Preparing for this Workshop
+### 1. Setting up your computer in advance
+You may want to configure your python environment on your local machine before the workshop. Instructions for this are in the github readme. You can test your environment by running this notebook. 
+
+### 2. Materials
+We’re not assuming that you will do any specific prep for this workshop. That said, our group has a wide range of skills/backgrounds, so if you’re new to some of the concepts in the itinerary, a little preparation may help you get more out of our time tomorrow. For a little background on some of the neural networks principles we’ll be covering, you may want to check out my [neural networks YouTube series](https://www.youtube.com/watch?v=bxe2T-V8XRs). [Jeremy Howard’s fastai lectures](https://course.fast.ai/videos/?lesson=1) are also a terrific starting point. Finally, there is one excellent [book](https://www.deeplearningbook.org/) (and only one in my opinion) on deep learning from Ian Goodfellow. It’s available online for free, and very readable. Chapter 1 is a great place to start if you’re new. 
+
+
 ## Jupyter Hub
 We've setup a Jupyter Hub instance for this workshop to allow GPU access, and provide access to a preconfigured environment. 
 
