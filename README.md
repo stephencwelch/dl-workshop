@@ -22,9 +22,22 @@ The links in the table above take you to externally hosted HTML exports of the n
 ### Note on Launching the Jupyter Notebooks
 To properly view the images and animations, please launch your jupyter notebook from the root directory of this repository. 
 
-
 ## Jupyter Hub
-We've setup a Jupyter Hub instance for this workshop to allow GPU access, and provide access to a preconfigured environment. We'll post login instructions here or share on the day of the workshop. s
+We've setup a Jupyter Hub instance for this workshop to allow GPU access, and provide access to a preconfigured environment. 
+
+By connecting to Jupyter Hub, you will not need to setup up an environment. Go to this link (active during workshop): [Link to Jupyter Hub]().
+
+At login, create your username and password:
+
+![](graphics/jupyterhub_1.png)
+
+Next, click **New** and select **Python 3**:
+
+![](graphics/jupyterhub_2.png)
+
+This will create a notebook for you to work in! 
+
+![](graphics/jupyterhub_3.png)
 
 
 ## Setting Up Your Environment
