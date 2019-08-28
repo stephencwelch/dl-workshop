@@ -5,17 +5,14 @@
 
 ## Sessions
 
-| Session |   Notebook/Slides    | Key Topics | Additional Reading/Viewing | 
-| ------- | ------------- | --------------------------- | -------------------------- | 
-| A Brief History of Neural Networks | - | Perceptrons, multilayer Perceptrons, neural networks, the rise of deep learning| [Goodfellow Deep Learning Chapter 1](https://www.deeplearningbook.org/contents/intro.html) [Ai: The Tumultuous History Of The Search For Artificial Intelligence](https://www.amazon.com/Ai-Tumultuous-History-Artificial-Intelligence/dp/0465029973/ref=sr_1_2?keywords=history+of+ai&qid=1566813741&s=books&sr=1-2) |
-| Setup |  | Brief Overview of How We'll Be Using Jupyter, Python, Pytorch, and JupyterHub, and fastai; install and test packages |  | 
-| Neural Networks Demystified|  | The mechanics and mathematics for forward and backpropagation in neural networks. Overfitting + Regularization|  [Neural Networks Demystified YouTube Series](https://www.youtube.com/watch?v=bxe2T-V8XRs)|
-|[Bonus Session if Time] State of the Art Deep Learning for Computer Vision | | SOTA in classification, detection, pose estimation, generative models, and other problems| |
-| Introduction to Pytorch | |  Why Pytorch?, Pytorch as "Numpy with GPU Support", simple neural network in Pytorch, automatic differentiation, nn.Module, PyTorch layers, PyTorch Optim, nn.Sequential | [Great Torch Intro by Jeremy Howard](https://pytorch.org/tutorials/beginner/nn_tutorial.html) |
-| How to Build a World Class Deep Learning Model [Part 1] | |  Stochastic gradient descent, regression vs classification, one hot encoding, cost functions and maximum likelihood, cross entropy | [Ian Goodfellow's Deep Learning - Chapter 1, Section 6.2, and Section 8.1](https://www.deeplearningbook.org/) |
-| How to Build a World Class Deep Learning Model [Part 2] | |  Stochastic gradient descent, regression vs classification, one hot encoding, cost functions and maximum likelihood, cross entropy | |
+| Session | Key Topics | Additional Reading/Viewing | 
+| -------  | --------------------------- | -------------------------- | 
+| A Brief History of Neural Networks & Setup| Perceptrons, multilayer Perceptrons, neural networks, the rise of deep learning, getting your environment setup | [Goodfellow Deep Learning Chapter 1](https://www.deeplearningbook.org/contents/intro.html) [Ai: The Tumultuous History Of The Search For Artificial Intelligence](https://www.amazon.com/Ai-Tumultuous-History-Artificial-Intelligence/dp/0465029973/ref=sr_1_2?keywords=history+of+ai&qid=1566813741&s=books&sr=1-2) |
+| Neural Networks Demystified|  The mechanics and mathematics for forward and backpropagation in neural networks. Overfitting + Regularization|  [Neural Networks Demystified YouTube Series](https://www.youtube.com/watch?v=bxe2T-V8XRs)|
+| Introduction to Pytorch | Why Pytorch?, Pytorch as "Numpy with GPU Support", simple neural network in Pytorch, automatic differentiation, nn.Module, PyTorch layers, PyTorch Optim, nn.Sequential | [Great Torch Intro by Jeremy Howard](https://pytorch.org/tutorials/beginner/nn_tutorial.html) |
+| Modern Deep Learning Practices|  Stochastic gradient descent, regression vs classification, one hot encoding, cost functions and maximum likelihood, cross entropy, CNNs, pooling and strides, AlexNet walkthrough, ImageNet, transfer learning, adaptive pooling, dropout, data augmentation, a little historical perspective | [Ian Goodfellow's Deep Learning - Chapter 1, Section 6.2, and Section 8.1](https://www.deeplearningbook.org/) |
 | Get results fast with fastai | | Jeremy Howard and the fastai philosophy, DataBunches, Learners, NLP with fastai, world class computer vision with fastai | [fastai course](https://github.com/fastai/course-v3)|
-| [Bonus Session if Time] GANs | | Ian Goodfellow invents GANs, the world's simplest GAN & nash equilibria, a dive into higher dimensions, DCGAN to the rescue, Visualizing GANs, GAN grow up (sortof), StyleGAN insanity, the unbelievably interesting world of GAN variants | |
+|  GANs | Ian Goodfellow invents GANs, the world's simplest GAN & nash equilibria, a dive into higher dimensions, DCGAN to the rescue, Visualizing GANs, GAN grow up (sortof), StyleGAN insanity, the unbelievably interesting world of GAN variants | |
 
 
 
