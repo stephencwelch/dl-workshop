@@ -2,7 +2,7 @@
 
 ## 1. Hands-on Session Option 1
 
-The backpropagation of errors algorithm is at the heart of modern deep neural networks. You certainly don't have to fully understand the ins and outs of the algorithms to be an outstanding deep learning practitioner. However, walking through the mathematics can be really empowering, and deepen your understanding of neural networks. If you're up for it, check out the [Backpropagation Guided Notes], and see how far you can get in deriving backpropagation for yourself!
+The backpropagation of errors algorithm is at the heart of modern deep neural networks. You certainly don't have to fully understand the ins and outs of the algorithms to be an outstanding deep learning practitioner. However, walking through the mathematics can be really empowering, and deepen your understanding of neural networks. If you're up for it, check out the [Backpropagation Guided Notes](https://github.com/stephencwelch/dl-workshop/blob/master/neural_networks_demystified/backprop_guided_notes.pdf), and see how far you can get in deriving backpropagation for yourself!
 
 ## 2. Hand-on Session Option 2
 
