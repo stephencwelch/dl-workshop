@@ -17,10 +17,14 @@
 
 
 ### Viewing Notebooks
-The links in the table above take you to externally hosted HTML exports of the notebooks. This works pretty well, except html won't render embedded slide shows unfortunately. The best way to view the notebooks is to clone this repo and run them yourself! Checkout the setup instructions below.
+You will be able to view most notebooks directly in github. This works pretty well, except html won't render embedded slide shows unfortunately. The best way to view the notebooks is to clone this repo and run them yourself! Checkout the setup instructions below.
 
 ### Note on Launching the Jupyter Notebooks
 To properly view the images and animations, please launch your jupyter notebook from the root directory of this repository. 
+
+### Downloading Animations
+An number of notebooks in the workshop use large animation files. To keep this repo (relaitvely) lightweight, we've stored these videos on a seperate server. They can be downloaded here [ADD LINK], and should be placed in a directory called videos/ in the top level of this repo. 
+
 
 ## Jupyter Hub
 We've setup a Jupyter Hub instance for this workshop to allow GPU access, and provide access to a preconfigured environment. 
@@ -39,8 +43,10 @@ This will create a notebook for you to work in!
 
 ![](graphics/jupyterhub_3.png)
 
+Once you are logged in, please open a terminal (directly available in JupyterHub), and clone this respository. 
 
-## Setting Up Your Environment
+
+## Setting Up Your Environment Locally 
 
 After cloning this repo to your local machine, you'll need to setup your Python environment and dependencies. The Python 3 [Anaconda Distribution](https://www.anaconda.com/download) is the easiest way to get going with the notebooks and code presented here. 
 
