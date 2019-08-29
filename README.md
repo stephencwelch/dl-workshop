@@ -41,7 +41,7 @@ We’re not assuming that you will do any specific prep for this workshop. That 
 ## Jupyter Hub
 We've setup a Jupyter Hub instance for this workshop to allow GPU access, and provide access to a preconfigured environment. 
 
-By connecting to Jupyter Hub, you will not need to setup up an environment. Go to either of these links (active during workshop): [Link to Jupyter Hub Server 1](http://104.41.135.15) and [Link to Jupyter Hub Server 2](http://40.71.85.174).
+By connecting to Jupyter Hub, you will not need to setup up an environment. Go to either of these links (active during workshop): [Link to Jupyter Hub Server 1](http://104.41.135.15), [Link to Jupyter Hub Server 2](http://40.71.85.174), [Link to Jupyter Hub Server 3](http://13.82.217.198).
 
 At login, use the first part of your email (e.g. firstpart@ignorethispart.com) and create your password:
 
