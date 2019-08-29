@@ -23,7 +23,11 @@ You will be able to view most notebooks directly in github. This works pretty we
 To properly view the images and animations, please launch your jupyter notebook from the root directory of this repository. 
 
 ### Downloading Animations
-An number of notebooks in the workshop use large animation files. To keep this repo (relaitvely) lightweight, we've stored these videos on a seperate server. They can be downloaded here [ADD LINK], and should be placed in a directory called videos/ in the top level of this repo. 
+An number of notebooks in the workshop use large animation files. To keep this repo (relaitvely) lightweight, we've stored these videos on a seperate server. They can be downloaded [here](http://www.welchlabs.io/dl-workshop/videos.zip), and should be placed in a directory called videos/ in the top level of this repo. You can also automatically download videos with this script:
+
+~~~
+python get_and_unpack.py -url http://www.welchlabs.io/dl-workshop/videos.zip
+~~~
 
 
 ## Preparing for this Workshop
